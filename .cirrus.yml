@@ -1,0 +1,4 @@
+hello_world__task:
+  container:
+    image: busybox
+  script: echo hello world
